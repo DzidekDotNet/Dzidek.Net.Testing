@@ -19,6 +19,10 @@
     </li>
     <li><a href="#what-is-unit-test">What is a Unit Test</a></li>
     <li><a href="#what-does-unit-test-mean-in-this-approach">What does Unit Test mean in this approach?</a></li>
+    <li><a href="#changelog">Changelog</a></li>
+    <li><a href="#nugetpackages">Nuget packages</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
@@ -127,3 +131,17 @@ A unit test is a type of software testing that focuses on verifying the correctn
 ### What does Unit Test mean in this approach?
 A unit test is usually a small piece of code, but we will understand it as a single business function, and we will test this functionality independently of the outside world (databases, other services, APIs). The entire external world should be mocked up 
 <p style="text-align: right;">(<a href="#readme-top">back to top</a>)</p>
+
+### Changelog
+- 1.0.0
+    - Unit test implementation
+
+## Nuget packages
+[Dzidek.Net.Testing](https://www.nuget.org/packages/Dzidek.Net.Testing)
+
+## Authors
+[@DzidekDotNet](https://www.github.com/DzidekDotNet)
+
+
+## License
+[MIT](https://github.com/DzidekDotNet/Dzidek.Net.Testing/blob/main/LICENSE)
