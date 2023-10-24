@@ -17,6 +17,7 @@
         <RepositoryUrl>https://github.com/DzidekDotNet/Dzidek.Net.Testing</RepositoryUrl>
         <PackageTags>DotNetCore, Testing</PackageTags>
         <Version>1.0.1</Version>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
