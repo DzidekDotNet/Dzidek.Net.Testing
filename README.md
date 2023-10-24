@@ -134,7 +134,9 @@ A unit test is usually a small piece of code, but we will understand it as a sin
 
 ### Changelog
 - 1.0.0
-    - Unit test implementation
+  - Unit test implementation
+- 1.0.1
+  - Added readme to the nuget package
 
 ## Nuget packages
 [Dzidek.Net.Testing](https://www.nuget.org/packages/Dzidek.Net.Testing)
