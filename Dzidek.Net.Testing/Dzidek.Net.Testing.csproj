@@ -16,8 +16,8 @@
         <PackageLicenseUrl>https://github.com/DzidekDotNet/Dzidek.Net.Testing/blob/main/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/DzidekDotNet/Dzidek.Net.Testing</RepositoryUrl>
         <PackageTags>DotNetCore, Testing</PackageTags>
-        <Version>1.0.1</Version>
-        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <Version>1.0.2</Version>
+        <PackageReadmeFile>NUGET_README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
