@@ -22,6 +22,7 @@ public sealed class CustomerReportTests : UnitTestBase<ICustomerReport>
   internal void GetAnnualProfitForCustomer_ForEachCustomer_ShouldGenerateProperData(int customerId, int expectedAnnualProfit)
   {
     var result = Testee.GetAnnualProfitForCustomer(customerId);
+    
     result.Should().Be(expectedAnnualProfit);
   }
 }
